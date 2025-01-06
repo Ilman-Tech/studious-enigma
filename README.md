@@ -18,6 +18,7 @@ To use this project, clone or download the repository to your local machine:
 
 git clone [https://github.com/your-username/multi-function-python-project.git](https://github.com/your-username/multi-function-python-project.git)
 Ensure that Python 3.x is installed. You can download it from the official Python website.
+```
 
 ## Usage:
 
